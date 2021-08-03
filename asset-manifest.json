@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/css/main.aa0e22ce.chunk.css",
-    "main.js": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/main.263dba38.chunk.js",
-    "main.js.map": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/main.263dba38.chunk.js.map",
-    "runtime-main.js": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/runtime-main.0c9f1ce0.js",
-    "runtime-main.js.map": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/runtime-main.0c9f1ce0.js.map",
-    "static/js/2.d905663c.chunk.js": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/2.d905663c.chunk.js",
-    "static/js/2.d905663c.chunk.js.map": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/2.d905663c.chunk.js.map",
-    "static/js/3.7dbeb00b.chunk.js": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/3.7dbeb00b.chunk.js",
-    "static/js/3.7dbeb00b.chunk.js.map": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/3.7dbeb00b.chunk.js.map",
-    "index.html": "/fahad1998-hub/fahad-hub/monsters-dir.git/index.html",
-    "static/css/main.aa0e22ce.chunk.css.map": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/css/main.aa0e22ce.chunk.css.map",
-    "static/js/2.d905663c.chunk.js.LICENSE.txt": "/fahad1998-hub/fahad-hub/monsters-dir.git/static/js/2.d905663c.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-dir/static/css/main.aa0e22ce.chunk.css",
+    "main.js": "/monsters-dir/static/js/main.263dba38.chunk.js",
+    "main.js.map": "/monsters-dir/static/js/main.263dba38.chunk.js.map",
+    "runtime-main.js": "/monsters-dir/static/js/runtime-main.631bde84.js",
+    "runtime-main.js.map": "/monsters-dir/static/js/runtime-main.631bde84.js.map",
+    "static/js/2.d905663c.chunk.js": "/monsters-dir/static/js/2.d905663c.chunk.js",
+    "static/js/2.d905663c.chunk.js.map": "/monsters-dir/static/js/2.d905663c.chunk.js.map",
+    "static/js/3.7dbeb00b.chunk.js": "/monsters-dir/static/js/3.7dbeb00b.chunk.js",
+    "static/js/3.7dbeb00b.chunk.js.map": "/monsters-dir/static/js/3.7dbeb00b.chunk.js.map",
+    "index.html": "/monsters-dir/index.html",
+    "static/css/main.aa0e22ce.chunk.css.map": "/monsters-dir/static/css/main.aa0e22ce.chunk.css.map",
+    "static/js/2.d905663c.chunk.js.LICENSE.txt": "/monsters-dir/static/js/2.d905663c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c9f1ce0.js",
+    "static/js/runtime-main.631bde84.js",
     "static/js/2.d905663c.chunk.js",
     "static/css/main.aa0e22ce.chunk.css",
     "static/js/main.263dba38.chunk.js"
